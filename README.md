@@ -12,5 +12,5 @@
 ## JAVASCRIPT
 
 ## Tools
-+ [*CODEPEN* An online code editor and learning environment](https://codepen.io/)
++ [*CODEPEN*: An online code editor and learning environment](https://codepen.io/)
 
