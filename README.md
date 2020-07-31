@@ -9,6 +9,8 @@
 ### DOM
 + [¿Qué es el DOM?](https://www.youtube.com/watch?v=jgU3Wn0Txec)
 + [Introducción](https://developer.mozilla.org/es/docs/Referencia_DOM_de_Gecko/Introducci%C3%B3n)
++ [Introducción - ¿Cómo se accede al DOM?](https://developer.mozilla.org/es/docs/Referencia_DOM_de_Gecko/Introducci%C3%B3n#.C2.BFC.C3.B3mo_se_accede_al_DOM.3F)
++ [Introducción - Tipos de Datos Importantes](https://developer.mozilla.org/es/docs/Referencia_DOM_de_Gecko/Introducci%C3%B3n#Tipos_de_datos_importantes)
 
 ## CSS
 + [A Complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
