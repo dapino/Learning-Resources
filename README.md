@@ -8,6 +8,7 @@
 + [Semantic elements in HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 ### DOM
 + [¿Qué es el DOM?](https://www.youtube.com/watch?v=jgU3Wn0Txec)
++ [Introducción](https://developer.mozilla.org/es/docs/Referencia_DOM_de_Gecko/Introducci%C3%B3n)
 
 ## CSS
 + [A Complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
