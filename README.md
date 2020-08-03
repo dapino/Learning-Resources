@@ -11,6 +11,7 @@
 + [Introducción](https://developer.mozilla.org/es/docs/Referencia_DOM_de_Gecko/Introducci%C3%B3n)
 + [Introducción - ¿Cómo se accede al DOM?](https://developer.mozilla.org/es/docs/Referencia_DOM_de_Gecko/Introducci%C3%B3n#.C2.BFC.C3.B3mo_se_accede_al_DOM.3F)
 + [Introducción - Tipos de Datos Importantes](https://developer.mozilla.org/es/docs/Referencia_DOM_de_Gecko/Introducci%C3%B3n#Tipos_de_datos_importantes)
++ [Guide to Web Components](https://developers.google.com/web/fundamentals/web-components)
 
 ## CSS
 + [A Complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
