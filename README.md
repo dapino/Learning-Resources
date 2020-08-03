@@ -31,6 +31,9 @@
 ### Testing
 + [How to Start unit testing in Javascript](https://www.freecodecamp.org/news/how-to-start-unit-testing-javascript)
 
+### Git
++ [git-flow: A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+
 ## Tools
 + [*CODEPEN*: An online code editor and learning environment](https://codepen.io/)
 
