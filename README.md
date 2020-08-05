@@ -38,3 +38,7 @@
 + [git-flow: A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 + [Interactive tool for git](https://github.com/jlord/git-it-electron)
 
+
+## Bonus
++ [GitHub Student Developer Pack](https://education.github.com/pack/offers)
+
