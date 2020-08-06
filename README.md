@@ -17,6 +17,7 @@
 + [A Complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## JAVASCRIPT
+
 ### Arrays
 #### Functions
 - Ordering: 
@@ -28,8 +29,14 @@
   + [includes](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/includes)
   + [indexOf](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/indexOf)
   
+### Web APIs
+- [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
+
 ### Testing
 + [How to Start unit testing in Javascript](https://www.freecodecamp.org/news/how-to-start-unit-testing-javascript)
+
+### Performance
+- [Debouncing and Throttling ](https://css-tricks.com/debouncing-throttling-explained-examples/)
 
 ## Tools
 + [*CODEPEN*: An online code editor and learning environment](https://codepen.io/)
@@ -41,4 +48,3 @@
 
 ## Bonus
 + [GitHub Student Developer Pack](https://education.github.com/pack/offers)
-
