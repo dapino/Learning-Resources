@@ -4,6 +4,7 @@
 
 
 ## HTML
++ [All tags reference](https://allthetags.com/)
 ### Semantic
 + [Semantic elements in HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 ### DOM
