@@ -17,6 +17,7 @@
 ## CSS
 + [A Complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 + [Interactive flexbox game](https://flexboxfroggy.com/#es)
++ [A fun game to learn and practice CSS selectors.](https://flukeout.github.io/)
 
 ## JAVASCRIPT
 
