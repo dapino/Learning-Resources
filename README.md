@@ -21,6 +21,8 @@
 
 ## JAVASCRIPT
 
++ [33 Conceptos que todo desarrollador de JavaScript debería saber.](https://github.com/adonismendozaperez/33-js-conceptos)
+
 ### Arrays
 #### Functions
 - Ordering: 
