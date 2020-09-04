@@ -38,6 +38,7 @@
 ### Testing
 + [How to Start unit testing in Javascript](https://www.freecodecamp.org/news/how-to-start-unit-testing-javascript)
 + [Jest docs](https://jestjs.io/docs/en/getting-started)
++ [Testing Asynchronous Code with Jest](https://jestjs.io/docs/en/asynchronous)
 
 ### Performance
 - [Debouncing and Throttling ](https://css-tricks.com/debouncing-throttling-explained-examples/)
