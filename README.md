@@ -44,6 +44,9 @@
 ### Performance
 - [Debouncing and Throttling ](https://css-tricks.com/debouncing-throttling-explained-examples/)
 
+### Others
+- [What is a pure function?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
+
 ## Tools
 + [*CODEPEN*: An online code editor and learning environment](https://codepen.io/)
 
