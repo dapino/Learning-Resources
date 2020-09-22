@@ -2,7 +2,7 @@
 
 :blush: [MDN Web Docs](https://developer.mozilla.org)
 
-## Basic Programming
+## Basic Programming
 + [Ejercicios Pseudocódigo](https://codigofacilito.com/articulos/ejercicios-pseudocodigo)
 
 
